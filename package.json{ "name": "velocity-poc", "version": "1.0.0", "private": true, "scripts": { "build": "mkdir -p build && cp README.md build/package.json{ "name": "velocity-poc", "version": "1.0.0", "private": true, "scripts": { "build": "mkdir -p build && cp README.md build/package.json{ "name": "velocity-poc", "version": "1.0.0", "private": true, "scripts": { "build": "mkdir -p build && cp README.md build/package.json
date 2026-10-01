@@ -1,0 +1,1 @@
+{ "name": "velocity-poc", "version": "1.0.0", "private": true, "scripts": { "build": "mkdir -p build && cp README.md build/index.html" } }
